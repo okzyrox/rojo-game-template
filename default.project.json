@@ -1,0 +1,33 @@
+{
+  "name": "Template",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Shared": {
+        "$path": "src/shared"
+      },
+
+      "Assets": {
+        "$path": "assets"
+      },
+
+      "Packages": {
+        "$path": "Packages"
+      }
+    },
+
+    "ServerScriptService": {
+      "ServerPackages": {
+        "$path": "ServerPackages"
+      },
+      "$path": "src/server"
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "src/client"
+      }
+    }
+  }
+}

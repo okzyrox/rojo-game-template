@@ -1,0 +1,11 @@
+# Place files
+/*.rbxl
+/*.rbxlx
+/*.lock
+
+# Rojo files
+sourcemap.json
+
+# Wally
+Packages/
+ServerPackages/
